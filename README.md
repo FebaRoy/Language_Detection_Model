@@ -26,7 +26,7 @@ The language detection model utilizes NLP techniques to identify the language of
     ```bash
     pip install -r requirements.txt
     ```
-##Dependencies
+## Dependencies
 
 - NumPy
 - pandas
@@ -35,7 +35,7 @@ The language detection model utilizes NLP techniques to identify the language of
 - scikit-learn
 - matplotlib
 
-##License
+## License
 
 This project is licensed under the MIT License.
 
